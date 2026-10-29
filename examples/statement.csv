@@ -1,0 +1,4 @@
+card_last4,txn_date,post_date,merchant,amount,currency,amount_aed,reference
+1234,2026-09-01,2026-09-02,Office supplies,100.00,AED,100.00,REF001
+1234,2026-09-03,2026-09-04,Taxi,50.00,AED,50.00,REF002
+1234,2026-09-05,2026-09-06,Hotel,200.00,AED,200.00,REF003

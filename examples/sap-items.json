@@ -1,0 +1,4 @@
+[
+  {"id":"1000:190000001:2026:001","amount":"100.00","currency":"AED","posting_date":"2026-09-02","assignment":"REF001","text":"Office supplies","card_last4":"1234"},
+  {"id":"1000:190000002:2026:001","amount":"50.00","currency":"AED","posting_date":"2026-09-05","assignment":"SAP002","text":"Taxi","card_last4":"1234"}
+]
